@@ -2,7 +2,7 @@
 It validates the input given from the user.
 
 
-[GitHub Pages](https://pages.github.com/)
+[View Project](https://kumarishwetha.com/form-validation/)
 
 
 ### Skills used: JavaScript,HTML,CSS
